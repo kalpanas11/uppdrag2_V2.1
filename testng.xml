@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+    <test verbose="2" preserve-order="true" name="/Users/Kalpana/IdeaProjects/uppdrag2_V2.1">
+        <classes>
+            <class name="com.seleniumTestNG.TestCases">
+               <!-- <methods><include name="testTitle"/>
+                    <include name="testCopyRightsLink"/>
+                    <include name="testLogout"/>
+                </methods>
+                -->
+            </class>
+        </classes>
+    </test>
+</suite>
+

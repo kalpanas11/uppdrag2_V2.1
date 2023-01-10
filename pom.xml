@@ -7,7 +7,7 @@
     <groupId>org.example</groupId>
     <artifactId>uppdrag2_V2.1</artifactId>
     <version>1.0-SNAPSHOT</version>
-git status
+
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
         <maven.compiler.target>11</maven.compiler.target>
